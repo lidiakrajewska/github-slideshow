@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"-It is impossible! __-Only if you believe it is.__"
 Use the left arrow to go back!
